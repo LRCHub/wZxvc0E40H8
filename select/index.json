@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DAI DAI DAI ファンタジスタ",
+  "base_artist": "さくらみこ",
+  "createdAt": "2026-03-08T15:31:47.376540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (Die Die Die) (feat. Giancane)",
+      "artist": "Punkreas feat. Giancane",
+      "has_synced": true,
+      "path": "select/01_Dai_Dai_Dai_(Die_Die_Die)_(feat._Giancane)_Punkreas_feat._Giancane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dai dai dai (Die Die Die)",
+      "artist": "Punkreas",
+      "has_synced": true,
+      "path": "select/02_Dai_dai_dai_(Die_Die_Die)_Punkreas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAI DAI DAI ファンタジスタ",
+      "artist": "さくらみこ",
+      "has_synced": true,
+      "path": "select/03_DAI_DAI_DAI_ファンタジスタ_さくらみこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (feat. BNR)",
+      "artist": "MBT",
+      "has_synced": false,
+      "path": "select/04_Dai_Dai_Dai_(feat._BNR)_MBT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (Die Die Die) (feat. Giancane)",
+      "artist": "Punkreas",
+      "has_synced": true,
+      "path": "select/05_Dai_Dai_Dai_(Die_Die_Die)_(feat._Giancane)_Punkreas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (feat. J-AX)",
+      "artist": "Don Joe",
+      "has_synced": true,
+      "path": "select/06_Dai_Dai_Dai_(feat._J-AX)_Don_Joe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dai Dai Dai",
+      "artist": "MBT",
+      "has_synced": false,
+      "path": "select/07_Dai_Dai_Dai_MBT.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DAI DAI DAI ファンタジスタ",
+      "artist": "さくらみこ",
+      "has_synced": true,
+      "path": "select/08_DAI_DAI_DAI_ファンタジスタ_さくらみこ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dai Dai Dai",
+      "artist": "Don Joe",
+      "has_synced": true,
+      "path": "select/09_Dai_Dai_Dai_Don_Joe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dai dai dai (feat. Don Joe, Shablo)",
+      "artist": "J-Ax",
+      "has_synced": true,
+      "path": "select/10_Dai_dai_dai_(feat._Don_Joe,_Shablo)_J-Ax.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dai Dai Dai",
+      "artist": "JKT48",
+      "has_synced": false,
+      "path": "select/11_Dai_Dai_Dai_JKT48.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (feat. BNR)",
+      "artist": "MBT, BNR",
+      "has_synced": false,
+      "path": "select/12_Dai_Dai_Dai_(feat._BNR)_MBT,_BNR.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DAI DAI DAI ファンタジスタ (Paused)",
+      "artist": "さくらみこ",
+      "has_synced": true,
+      "path": "select/13_DAI_DAI_DAI_ファンタジスタ_(Paused)_さくらみこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAI DAI DAI ファンタジスタ",
+      "artist": "さくらみこ",
+      "has_synced": false,
+      "path": "select/pl_01_DAI_DAI_DAI_ファンタジスタ_さくらみこ.txt"
+    }
+  ]
+}
